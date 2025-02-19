@@ -2,3 +2,5 @@ Pillow
 anthropic
 mss
 python-dotenv
+google-generativeai
+httpx
